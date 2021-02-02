@@ -1,6 +1,6 @@
 {
   "name": "commajs-stickynote",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Commajs - The WYSIWYG framework -  stickynote plugin",
   "main": "dist/commajs-stickynote.min.js",
   "repository": {
